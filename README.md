@@ -1,75 +1,75 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Gajanan Kadtan</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gajanan</h1>
-<h3 align="center">I'm a passionate Self-tought MERN Stack Developer from India.</h3>
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[Secrets App](https://discoversecrets.herokuapp.com/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, React**
-
-- 👯 I’m looking to collaborate on **OpenSource and MERN Stack projects**
-<!--
-- 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
-
-- 📫 How to reach me **gajanankadtan57@gmail.com**
-
-- ⚡ Fun fact **I play games, read BOOKs and go to the GYM very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<h3 align="center">
+Self-taught engineer building <b>local-first systems</b> — Android/Wear&nbsp;OS tooling,<br/>
+TypeScript web apps that run on hardware you already own, and market software with real backtests.
+</h3>
 
 <p align="center">
-    <a href="https://github.com/The-kadtan2027/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-kadtan2027&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://www.linkedin.com/in/gajanan-kadtan-1a84071a3/"><img src="https://img.shields.io/badge/LinkedIn-Gajanan%20Kadtan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gajanankadtan57@gmail.com"><img src="https://img.shields.io/badge/Email-gajanankadtan57%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Hyderabad,%20India-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github.com/The-kadtan2027/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=The-kadtan2027&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/The-kadtan2027/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-kadtan2027&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 🔭 What I'm building now
 
-<br/>
-<br/>
+| Project | What it is | Stack |
+|---|---|---|
+| **[WearCam](https://github.com/The-kadtan2027/wearcam)** · public | Galaxy Watch 4 as a remote viewfinder + shutter for an Android phone camera. H.264 over Bluetooth RFCOMM **and** Wi-Fi with automatic fallback, accessibility-driven camera automation with a one-time calibration wizard, explicit state machines for every transition. MIT, CI-built release APKs. | `Java` `Android` `Wear OS` `MediaCodec` `MediaProjection` |
+| **[FotoHaven](https://github.com/The-kadtan2027/fotohaven)** · public | Photo-handoff platform for event photographers that runs on an **old Android phone** instead of a cloud server. Multi-ceremony albums, password-protected share links, client selections, batch ZIP streaming, face recognition. Termux + PM2 + Cloudflare Tunnel, no monthly bill. | `TypeScript` `Next.js` `SQLite` `Drizzle` `S3/R2` `Python` |
+| **Dhanustambha** · [private source, public write-up](case-studies/dhanustambha.md) | Systematic NSE/BSE trading platform implementing the Stockbee momentum methodology — data ingestion, breadth-based market monitor, scanner, trade management and a review loop. Rust workspace of 7 crates (types, math, scanner, backtest, db, Python bindings, CLI) under a Python/FastAPI service and a Next.js dashboard. Cost-aware portfolio backtests with pre-registered hypotheses. | `Rust` `Python` `FastAPI` `Next.js` `SQLite` |
 
-<a href="https://github.com/The-kadtan2027/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=The-kadtan2027&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+## 🧰 Also shipped
 
-<br/>
-<br/>
+- **ImageEditor** — detect, edit and replace text inside images. PaddleOCR + inpainting backend, React front end, one `docker-compose up`.
+- **Stock Market News Aggregator** — React 18 + TypeScript + Vite + Tailwind app pulling NewsAPI / Finnhub / RSS with deduplication, auto-refresh and a local LLM (Ollama) summarisation path.
+- **Java / Spring era (2021–2024)** — vendor management, car-wash booking, electricity billing and hospital-finder web apps: Spring MVC / Spring Boot, JDBC, Hibernate, MySQL, Docker.
+- **Front-end foundations (2021–2022)** — ~20 vanilla JS and React builds: movies database, notes keeper, travel journal, Airbnb clone, drum kit, CSS clock, drawing canvas.
 
-## Connect with me:
+## 🛠 Stack
 
-<p align="left">
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<a href = "https://www.linkedin.com/in/gajanan-kadtan-1a84071a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/The-kadtan2027"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ig_gajukadtan_2027/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+**Mobile & device**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Wear OS](https://img.shields.io/badge/Wear%20OS-4285F4?style=flat-square&logo=wearos&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnubash&logoColor=white)
 
+**Web & services**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data & infra**  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL2-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=The-kadtan2027&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Streak"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=The-kadtan2027&theme=github_dark" alt="Most-committed languages"/>
 </p>
 
-## ❤ Views and Followers
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=The-kadtan2027&style=flat-square&color=1f6feb" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/The-kadtan2027?style=flat-square&logo=github" alt="Followers"/>
+</p>
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=The-kadtan2027">
-</a>
-<a href="https://github.com/The-kadtan2027?tab=followers"><img src="https://img.shields.io/github/followers/The-kadtan2027?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+<sub>The trading platform's source stays private; its [engineering write-up](case-studies/dhanustambha.md) covers the architecture, the backtest harness and the trade-offs. Happy to walk through either stack on a call.</sub>
