@@ -23,8 +23,8 @@ TypeScript web apps that run on hardware you already own, and market software wi
 
 ## 🧰 Also shipped
 
-- **ImageEditor** — detect, edit and replace text inside images. PaddleOCR + inpainting backend, React front end, one `docker-compose up`.
-- **Stock Market News Aggregator** — React 18 + TypeScript + Vite + Tailwind app pulling NewsAPI / Finnhub / RSS with deduplication, auto-refresh and a local LLM (Ollama) summarisation path.
+- **ImageEditor** — detect, edit and replace text inside images. PaddleOCR + inpainting backend, React front end, one `docker-compose up`. [Write-up](case-studies/lab-projects.md#image-text-modifier-imageeditor)
+- **Stock Market News Aggregator** — React 18 + TypeScript + Vite + Tailwind app pulling NewsAPI / Finnhub / RSS with deduplication, auto-refresh and per-article summaries via Gemini or a local Ollama model. [Write-up](case-studies/lab-projects.md#stock-market-news-aggregator)
 - **Java / Spring era (2021–2024)** — vendor management, car-wash booking, electricity billing and hospital-finder web apps: Spring MVC / Spring Boot, JDBC, Hibernate, MySQL, Docker.
 - **Front-end foundations (2021–2022)** — ~20 vanilla JS and React builds: movies database, notes keeper, travel journal, Airbnb clone, drum kit, CSS clock, drawing canvas.
 
