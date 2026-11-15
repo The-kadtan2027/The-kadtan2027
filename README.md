@@ -6,9 +6,9 @@ TypeScript web apps that run on hardware you already own, and market software wi
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gajanankadtan"><img src="https://img.shields.io/badge/LinkedIn-Gajanan%20Kadtan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gajanan-kadtan"><img src="https://img.shields.io/badge/LinkedIn-Gajanan%20Kadtan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gajanankadtan57@gmail.com"><img src="https://img.shields.io/badge/Email-gajanankadtan57%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Hyderabad,%20India-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Bengaluru,%20India-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
